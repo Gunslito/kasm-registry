@@ -1,6 +1,6 @@
 {
   "friendly_name": "MySQL Workbench",
-  "image_src": "blob:https://gunslito.github.io/6e309200-1879-4c0a-8415-b693e2750c90",
+  "image_src": "mysql-workbench-icon.png",
   "description": null,
   "name": "linuxserver/mysql-workbench:8.0.34",
   "cores": 2,
